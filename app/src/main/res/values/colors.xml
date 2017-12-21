@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22cc5f</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#22cc5f</color>
+    <!--统一的颜色start-->
+    <color name="common_color">#22cc5f</color>
+    <color name="common_text_black">#000000</color>
+    <color name="common_text_gray_one">#323232</color>
+    <color name="common_text_gray_two">#646464</color>
+    <color name="common_text_gray_three">#909090</color>
+    <color name="common_text_red">#df3d3e</color>
+    <color name="common_bg">#e7e7e7</color>
+    <color name="common_text_btn">#fff6f6</color>
+    <!--统一的颜色end-->
+    <color name="white">#ffffff</color>
+</resources>

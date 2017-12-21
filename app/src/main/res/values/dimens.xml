@@ -1,0 +1,12 @@
+<resources>
+    <!--定义APP统一的字体大小间距等start-->
+    <dimen name="common_text_one">18sp</dimen>
+    <dimen name="common_text_two">16sp</dimen>
+    <dimen name="common_text_three">14sp</dimen>
+    <dimen name="common_text_four">12sp</dimen>
+    <dimen name="common_text_tive">10sp</dimen>
+    <dimen name="common_text_max">19sp</dimen>
+
+    <!--定义APP统一的字体大小间距等end-->
+
+</resources>

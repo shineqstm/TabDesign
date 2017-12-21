@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/shouye"
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@mipmap/shequ"
+        android:title="社区" />
+
+    <item
+        android:id="@+id/navigation_shopCart"
+        android:icon="@mipmap/gouwuche_1"
+        android:title="购物车" />
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@mipmap/wode"
+        android:title="我的" />
+</menu>

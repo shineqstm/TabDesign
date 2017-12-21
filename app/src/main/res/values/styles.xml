@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--通用的字体大小颜色，不设置就会用这个-->
+        <item name="android:textSize">@dimen/common_text_three</item>
+        <item name="android:textColor">@color/common_text_black</item>
+        <item name="android:windowBackground">@drawable/activity_bg</item>"
+    </style>
+
+</resources>
